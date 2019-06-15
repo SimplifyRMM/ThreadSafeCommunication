@@ -3,7 +3,7 @@ Tiny lesson for those new to C Sharp (.NET WinForms) who want to be able to upda
 
 ###### Please note that I am not saying this is the proper, most efficient or even correct solution. But it works.
 
-## Quick Look
+## Quick Look (YouTube video)
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/kDCWCpPU4WM/0.jpg)](http://www.youtube.com/watch?v=kDCWCpPU4WM)
 
 ## Step 1 ─ Creating a Class
