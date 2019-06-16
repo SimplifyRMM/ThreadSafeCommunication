@@ -1,10 +1,7 @@
 # ThreadSafeCommunication
 Tiny lesson for those new to C Sharp (.NET WinForms) who want to be able to update a control on a form safely across threads or from other forms.
 
-###### Please note that I am not saying this is the proper, most efficient or even correct solution. But it works.
-
-## Quick Look (YouTube video)
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/kDCWCpPU4WM/0.jpg)](http://www.youtube.com/watch?v=kDCWCpPU4WM)
+##### Please note that I am not saying this is the most efficient, proper, or even correct solution. But it works.
 
 ## Step 1 ─ Creating a Class
 * Add a new class to your project named "Utilities.cs"
@@ -102,3 +99,6 @@ namespace ConsoleReading
 
 Please feel free to leave comments with better/more efficient/more proper ways to handle this issue! 
 Thank you.
+
+## Quick Look (YouTube video)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/kDCWCpPU4WM/0.jpg)](http://www.youtube.com/watch?v=kDCWCpPU4WM)
